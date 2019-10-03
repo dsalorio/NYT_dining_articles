@@ -21,7 +21,7 @@ If this is interesting have a look around the NYT's website, and if you like wha
 
 ## Future Work
 
-There is still a lot of neat stuff left to do with this data. word2vec and GloVe models in the Gensim library are the next place I'm headed. Somewhere down the line I will move on to Transfer Learning to really get the recipe recommender in top shape.
+There is still a lot of neat stuff left to do with this data. I haven't looked at positional or semantic data, so word2vec and GloVe models in the Gensim library are the next place I'm headed. Somewhere down the line I will move on to Transfer Learning to really get the recipe recommender in top shape.
 
 ### A Note about Requirements, and a request for WSL help
 
