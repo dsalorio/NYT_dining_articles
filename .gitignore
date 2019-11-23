@@ -1,2 +1,4 @@
 *.pickle
 *.ipynb_checkpoints
+*.csv
+*.env
