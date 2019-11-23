@@ -6,7 +6,7 @@ Natural language processing analysis of recipe descriptions in the New York Time
 
 I love the New York Times [Dining section](https://cooking.nytimes.com/).
 I like to eat good food, thankfully I also like to cook, and I also really like to READ about cooking. 
-This project, then, isn't about recipes themselves, but how we talk about them. I've taken the paragraph or two that chef-authors use to describe their recipes and performed some analysis using Natural Language Processing techniques to get a sense of what each recipe is like. I'm not examining the ingredients list for a recipe, or the instructions for making it. I'm looking at how people talk about it, describe it, what's it like to make it and eat it.
+This project, then, isn't about recipes themselves, but how we talk about them. I've taken the paragraph or two that chef-authors use to describe their recipes and performed some analysis using Natural Language Processing techniques to get a sense of what each recipe is like. I'm not examining the ingredients list for a recipe, or the instructions for making it. I'm looking at how people talk about it, describe what's it like to make it and eat it.
 
 The workflow is split between 2 notebooks and is more or less as follows
 
